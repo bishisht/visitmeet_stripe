@@ -19,7 +19,7 @@ development:
   database: visitmeet_stripe_development
   pool:     5
   username: postgres
-  password: nepal
+  password: kathmandu143. 
   template: template0
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -47,7 +47,7 @@ test:
   database: visitmeet_stripe_test
   pool:     5
   username: postgres
-  password: nepal
+  password: kathmandu143.
   template: template0
 
 production:
